@@ -1,1 +1,1 @@
-# social-posts
+Temporary files. Usually empty.
