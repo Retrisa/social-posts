@@ -1,0 +1,1 @@
+Temporary files. Usually empty.
